@@ -1,7 +1,7 @@
 # 🎨 Canvas Image Editor
 
 <p align="center">
-  <img src="./screenshot.png" alt="Image Editor UI" width="800" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0,0,0,0.1);"/>
+  <img src="/Screenshot.png" alt="Image Editor UI" width="800" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0,0,0,0.1);"/>
   <br>
   <br>
   <a href="#"><img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge" alt="Status"></a>
