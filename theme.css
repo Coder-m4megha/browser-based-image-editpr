@@ -1,0 +1,58 @@
+:root{
+    /* bg colors */
+    --bg-primary-color: rgb(128, 173, 140);
+    --bg-secondary-color: rgb(68, 113, 111);
+    --bg-active-color: rgb(21, 19, 19);
+    --bg-danger-color: rgb(200,50,50);
+    --bg-success-color: rgb(50,200,50);
+    --bg-Caution-color: rgba(246, 162, 59, 0.897);
+    --bg-Creative-color: rgb(251, 225, 178);
+
+
+    /* text color  */
+    --text-primary-color: rgb(237,237,237);
+    --text-secondary-color: rgb(200,200,200);
+    --text-tertiary-color: rgb(150,150,150);
+    --text-active-color: rgb(24,24,24);
+
+    /* Paddings */
+    --padding-sm: 0.5rem;
+    --padding-md: 1rem;
+    --padding-lg: 1.5rem;
+    --padding-xl: 2rem;
+    --padding-2xl: 3rem;
+
+    /* Margin */
+    --margin-sm: 0.5rem;
+    --margin-md: 1rem;
+    --margin-lg: 1.5rem;
+    --margin-xl: 2rem;
+    --margin-2xl: 3rem;
+
+    /*  gutter  */
+   
+    --gutter-sm: 0.5rem;
+    --gutter-md: 1rem;
+    --gutter-lg: 1.5rem;
+    --gutter-xl: 2rem;
+    --gutter-2xl: 3rem;
+
+
+    /* font size */
+    --font-size-sm: 0.5rem;
+    --font-size-md: 1rem;
+    --font-size-lg: 1.5rem;
+    --font-size-xl: 2rem;
+    --font-size-2xl: 3rem;
+
+    /* border radius */
+    --border-radius-sm: 0.2rem;
+    --border-radius-md: 0.25rem;
+    --border-radius-lg: 0.3rem;
+    --border-radius-xl: 0.4rem;
+    --border-radius-2xl: 0.5rem;
+    
+
+
+
+}
